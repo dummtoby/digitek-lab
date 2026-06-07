@@ -1,0 +1,25 @@
+{
+    "template": {
+        "name": "Template Plugin",
+        "path": "/template",
+        "description": "This is a template plugin that serves as a starting point for creating new plugins. It includes basic structure and example code to help developers get started quickly.",
+        "version": "1.0",
+        "author": "Ecxo Interactive",
+        "topic": "Development",
+        "package": "/template/release/template-1.0.0.dgtkplgn",
+        "website": "https://ecxo.ca",
+        "github": ""
+    },
+    "fishbot": {
+        "name": "Fishbot 3.0",
+        "path": "/fishbot",
+        "description": "Fishbot 3.0 is a powerful and efficient fishing bot designed to automate the fishing process in various games. It offers advanced features such as customizable fishing patterns, auto-repair, and support for multiple game versions. With Fishbot 3.0, you can enjoy a seamless fishing experience while maximizing your in-game rewards.",
+        "version": "3.0.2",
+        "author": "dummtoby",
+        "game": "Roblox, Bloxburg",
+        "category": "Utility",
+        "package": "/fishbot/release/fishbot-3.0.2.dgtkplgn",
+        "website": "https://techtoby.shawnyxx.dev/",
+        "github": ""
+    }
+}

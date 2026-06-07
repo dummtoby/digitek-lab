@@ -1,0 +1,11 @@
+{
+  "id": "template",
+  "name": "Template Plugin",
+  "version": "1.0.0",
+  "author": "Ecxo Interactive",
+  "description": "Starter plugin for DigiTek Lab.",
+  "entry": "ui/index.html",
+  "permissions": [
+    "bridge"
+  ]
+}

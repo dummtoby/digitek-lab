@@ -1,0 +1,26 @@
+{
+  "id": "fishbot",
+  "name": "Fishbot 3.0",
+  "version": "3.0.2",
+  "author": "dummtoby",
+  "description": "Bloxburg fishing automation plugin based on Fishbot 2.0.",
+  "entry": "ui/index.html",
+  "icon": "ui/icon.png",
+  "permissions": [
+    "screen-capture",
+    "mouse",
+    "keyboard",
+    "bridge"
+  ],
+  "pythonRequirements": [
+    {
+      "package": "Pillow",
+      "import": "PIL"
+    },
+    {
+      "package": "pynput",
+      "import": "pynput",
+      "optional": true
+    }
+  ]
+}
